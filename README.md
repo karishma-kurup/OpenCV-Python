@@ -8,6 +8,7 @@
 #Track color/object
 #Panaroma-Stitcher
 #Watermarking
+#Motion Detection Simple 
 #Hand Gesture Recognition-just numbers
 #Doc Scan
 #Vehicle Detection - Project - Course in Machine Learning 
