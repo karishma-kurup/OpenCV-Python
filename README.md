@@ -15,3 +15,5 @@
  *Using only 1 feature
  *Using 2 features
  *Applying Sliding Windows-1 feature
+#Detect Bright Blobs
+#Various ML Models
