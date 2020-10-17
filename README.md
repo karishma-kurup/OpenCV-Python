@@ -11,7 +11,7 @@
 #Motion Detection Simple 
 #Hand Gesture Recognition-just numbers
 #Doc Scan
-#Vehicle Detection - Project - Course in Machine Learning 
+#Vehicle Detection Using SVM and HOG (Part of Machine Learning Course)
 #Detect Bright Blobs
 #Various ML Models
 #Pedestrian Detection
