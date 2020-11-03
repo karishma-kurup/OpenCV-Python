@@ -5,7 +5,7 @@ from os.path import isfile, join
 
 pathIn= 'C:/Users/user/Documents/Computer Vision/Cat'
 image_folder = pathIn 
-video_name = 'mygeneratedvideo.avi'
+video_name = 'myvideo.avi'
 os.chdir(pathIn) 
 
 images = [img for img in os.listdir(image_folder) 
